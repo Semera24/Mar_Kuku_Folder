@@ -1,0 +1,33 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "DB5E27D4-16BE-4452-BC58-980373E88838",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: E02_CH01_Technical_Proof_v001"
+          }
+        }
+      ],
+      "id" : "A65ED9BF-3BA2-4DCC-AE01-A40FE02F0A2D",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: E02_CH01_Technical_Proof_v001"
+          }
+        }
+      ],
+      "id" : "BEF6152A-8CAA-4673-877F-142DF93E28CC",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-22T00:25:18Z"
+}

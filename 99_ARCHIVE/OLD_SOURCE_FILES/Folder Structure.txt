@@ -1,0 +1,41 @@
+02_CHARACTERS — boy, girl, and Doro Nesh
+03_STORIES_SCRIPTS — story ideas and approved scripts
+04_STORYBOARDS — scene-by-scene planning
+05_BACKGROUNDS — reusable locations
+06_AUDIO — Amharic voice, music, sound effects
+06_PROPS — objects used in scenes
+07_EPISODES — episode production files
+08_CAPCUT_PROJECTS — editing projects
+09_RENDERS — previews and final videos
+10_YOUTUBE — thumbnails, titles, descriptions, and Shorts
+
+
+
+
+
+The production steps are:
+
+Approve the final character designs.
+Create character sheets: front, side, back, expressions, and poses.
+Create reusable backgrounds and props.
+Write the first short Amharic script.
+Build the storyboard.
+Create each scene using the character assets.
+Record voiceover in Audacity.
+Animate and edit in CapCut.
+
+
+Our order will be:
+
+Finish Dofe’s design and archive.
+Create Mar’s design.
+Create Kuku-Yea’s design.
+Create the complete cast reference sheet.
+Define the 2D visual style and production rules.
+Write the first short story.
+Create the storyboard.
+Test one simple 2D scene.
+Then test Blender Grease Pencil or another 2D method.
+Compare the result with the simpler CapCut workflow.
+
+

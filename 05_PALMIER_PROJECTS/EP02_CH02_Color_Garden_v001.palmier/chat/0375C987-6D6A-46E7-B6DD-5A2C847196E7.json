@@ -1,0 +1,22 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "0375C987-6D6A-46E7-B6DD-5A2C847196E7",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: TestAIProducer"
+          }
+        }
+      ],
+      "id" : "BBD88BEA-1B5E-41A3-AE62-65FC1820520F",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-22T00:07:36Z"
+}

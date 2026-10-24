@@ -1,0 +1,22 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "9A2229FA-9498-4C28-8734-CA8A70EA2235",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EP02_CH02_Color_Garden_v001"
+          }
+        }
+      ],
+      "id" : "5699EEF3-6296-445E-B051-F77CABD71A67",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-24T00:41:01Z"
+}

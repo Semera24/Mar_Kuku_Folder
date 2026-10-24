@@ -1,0 +1,33 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "373A2AA8-0822-4C89-9C22-D03D7036B55F",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EP02_CH02_Color_Garden_v001"
+          }
+        }
+      ],
+      "id" : "F2A2B1A4-359F-43DC-BF7C-F88D81583148",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EP02_CH02_Color_Garden_v001"
+          }
+        }
+      ],
+      "id" : "EA1B09DB-6786-4D85-A6D8-B5CD088D8CFB",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-23T23:19:34Z"
+}

@@ -1,0 +1,66 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "1624687B-EE86-4F77-96D6-176C3A2BC7AE",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_Big_Counting_Adventure"
+          }
+        }
+      ],
+      "id" : "D12B96E5-1784-4D96-821B-CC230C4501D1",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_Big_Counting_Adventure"
+          }
+        }
+      ],
+      "id" : "C3E31B70-6CFB-4009-A1E8-6D6A4D79B2A2",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_Big_Counting_Adventure_BackUp"
+          }
+        }
+      ],
+      "id" : "443A716A-6AEA-443A-B0D6-F266E83AA65C",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_Big_Counting_Adventure_CH05_Working_v001"
+          }
+        }
+      ],
+      "id" : "7C865300-7F6B-4762-9633-0BAF750C57FE",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_Big_Counting_Adventure_CH05_Working_v001"
+          }
+        }
+      ],
+      "id" : "7B977C46-3379-4F5E-90CE-AFAAF96CA7B5",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-20T11:53:04Z"
+}

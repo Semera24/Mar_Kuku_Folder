@@ -1,0 +1,33 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "B4DC2058-B777-4BAB-83B1-51B8137DFA9B",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_and_Kuku_Shorts_v001"
+          }
+        }
+      ],
+      "id" : "50437832-0783-49BC-B7E2-B49917E8566C",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_and_Kuku_Shorts_v001"
+          }
+        }
+      ],
+      "id" : "2CC64E2A-B0BB-4048-804E-48D39108D567",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-20T11:43:22Z"
+}

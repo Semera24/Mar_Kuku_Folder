@@ -1,0 +1,22 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "D0D47CF5-EB79-4BF4-A502-0AA213651F99",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: E02_CH01_Technical_Proof_v001"
+          }
+        }
+      ],
+      "id" : "C3F2C38D-8273-4119-A292-3E908C60B571",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-23T11:24:10Z"
+}

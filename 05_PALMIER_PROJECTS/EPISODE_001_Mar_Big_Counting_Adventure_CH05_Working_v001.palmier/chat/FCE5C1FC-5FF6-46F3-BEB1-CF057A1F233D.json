@@ -1,0 +1,22 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "FCE5C1FC-5FF6-46F3-BEB1-CF057A1F233D",
+  "isOpen" : true,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_Big_Counting_Adventure_CH05_Working_v001"
+          }
+        }
+      ],
+      "id" : "BB43F2E5-C58C-4849-8468-A3877CE360CC",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-23T11:24:10Z"
+}

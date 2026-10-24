@@ -1,0 +1,22 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "2F95EAA8-0E36-4D99-9943-2A112FF17A5D",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_and_Kuku_Shorts_v001"
+          }
+        }
+      ],
+      "id" : "FA75595F-0CF1-41F0-A755-24EAA50A2D54",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-20T11:32:37Z"
+}

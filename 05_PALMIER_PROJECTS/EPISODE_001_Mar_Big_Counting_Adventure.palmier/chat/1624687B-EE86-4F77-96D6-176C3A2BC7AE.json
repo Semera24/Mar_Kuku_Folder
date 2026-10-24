@@ -1,0 +1,33 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "1624687B-EE86-4F77-96D6-176C3A2BC7AE",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_Big_Counting_Adventure"
+          }
+        }
+      ],
+      "id" : "D12B96E5-1784-4D96-821B-CC230C4501D1",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_Big_Counting_Adventure"
+          }
+        }
+      ],
+      "id" : "C3E31B70-6CFB-4009-A1E8-6D6A4D79B2A2",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-18T23:40:27Z"
+}

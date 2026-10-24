@@ -1,0 +1,44 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "526A59BA-8578-46ED-9F7F-29D8A247D595",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: E02_CH01_Technical_Proof_v001"
+          }
+        }
+      ],
+      "id" : "BFF50FE7-5941-45B1-8EE8-9F79CA85E80C",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: E02_CH01_Technical_Proof_v001"
+          }
+        }
+      ],
+      "id" : "852FF4B1-DA58-4392-A6FE-A51BB62B3988",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: E02_CH01_Technical_Proof_v001"
+          }
+        }
+      ],
+      "id" : "2D03C206-DBEC-45CC-A1C3-3EE6AA0A6A84",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-22T00:21:40Z"
+}

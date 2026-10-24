@@ -1,0 +1,55 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "0BCB3A30-7F65-4875-B8FF-6B5BBCDD3804",
+  "isOpen" : false,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EP02_CH02_Color_Garden_v001"
+          }
+        }
+      ],
+      "id" : "5E9129CB-5156-4109-9D48-AC723AC39BFB",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EP02_CH02_Color_Garden_v001"
+          }
+        }
+      ],
+      "id" : "7A6F42EE-5261-434E-A976-1681E61A14A4",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EP02_CH02_Color_Garden_v001"
+          }
+        }
+      ],
+      "id" : "8BC42EEC-4FAE-4BC4-93DD-1F53EA8D07D0",
+      "role" : "system"
+    },
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EP02_CH02_Color_Garden_v001"
+          }
+        }
+      ],
+      "id" : "E0C8F920-2BD1-4FA1-8A1A-08F61CBD1916",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-23T23:19:40Z"
+}

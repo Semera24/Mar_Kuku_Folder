@@ -1,0 +1,22 @@
+{
+  "contextSize" : 0,
+  "harness" : "palmier",
+  "id" : "A193E547-2A08-4A1F-B9E0-262757C86CDC",
+  "isOpen" : true,
+  "isReadOnly" : false,
+  "messages" : [
+    {
+      "blocks" : [
+        {
+          "text" : {
+            "_0" : "Now editing: EPISODE_001_Mar_Big_Counting_Adventure"
+          }
+        }
+      ],
+      "id" : "2061E37D-4BD2-4840-BE40-DCC991ADE343",
+      "role" : "system"
+    }
+  ],
+  "title" : "New chat",
+  "updatedAt" : "2026-10-19T16:43:58Z"
+}
